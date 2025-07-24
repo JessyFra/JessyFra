@@ -30,5 +30,5 @@
   </section>
 </body>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TolMen&show_icons=true&theme=midnight-purple&custom_title=General%20informations)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TolMen&layout=donut&custom_title=Usage%20percentage&theme=midnight-purple)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JessyFra&show_icons=true&theme=midnight-purple&custom_title=General%20informations)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessyFra&layout=donut&custom_title=Usage%20percentage&theme=midnight-purple)
