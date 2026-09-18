@@ -3,30 +3,29 @@
 </div>
 
 - **Name** : Jessy Frachisse
-- **Portfolio** : https://jessyf.fr/ 
-- **Aspiring Web & Game Developer** 🎮  
-- **Passions** : Hiking 🌳 / Swimming 🌊 / Science 🔬  
+- **Freelance web developer** (auto-entrepreneur) - custom sites & web apps
+- **Portfolio** : https://jessyf.fr/
+- **Open to** : freelance missions & white-label subcontracting for agencies
+- **Off-screen** : Hiking 🌳 / Swimming 🌊 / Science 🔬 / Game dev 🎮
 
 <div align="center">
   <h2>🔧 Skills & Technologies 🔧</h2>
 </div>
 
-#### **Technical Skills** ⚙️  
-- **Proficient** : *PHP 8.4 / Symfony 7.3 / SQL / WordPress*
-- **Currently Learning** : *Java 21 / Python 3.13* 
-- **Future Goal** : *C++*
-- **Basic Knowledge** : *JavaScript / SASS*
+#### **Technical Skills** ⚙️
+- **Core** : *PHP 8.4 / Symfony 7.3 / SQL / WordPress*
+- **Also** : *REST APIs / JavaScript / SASS*
+- **Exploring** : *Java 21 / Python 3.13 / C++*
 
-#### **Methodological Skills** 🗂️  
-- Database Design (BDD) / SEO / CRM  
-- Domain-Driven Design / UML (Use Case, Class & Sequence Diagrams)  
+#### **Methodological Skills** 🗂️
+- Database Design (BDD) / SEO / CRM
+- Domain-Driven Design / UML (Use Case, Class & Sequence Diagrams)
 
-<body>  
+<body>
   <section>
     <h2 align="center"> 🔍 My Statistics 🔍 </h2>
     <br>
     <p> Explore the numbers in my GitHub statistics </p>
-    <p> Order of ranks : S (<1%) / A+ (12,5%) / A (25%) / A- (37,5%) / B+ (50%) / B (62,5%) / B- (75%) / C+ (87,5%) / C </p>
   </section>
 </body>
 
