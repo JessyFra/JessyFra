@@ -1,30 +1,32 @@
 <div align="center">
-  <h2>💻 À propos de moi 💻</h2>
+  <h2>👋 Bonjour, moi c'est Jessy</h2>
+  <p>Développeur web freelance, je conçois des sites et applications web sur mesure avec PHP et Symfony.</p>
 </div>
 
-- **Nom** : Jessy Frachisse
-- **Développeur web freelance** (auto-entrepreneur) - sites & applications web sur mesure
-- **Portfolio** : https://jessyf.fr/
-- **Disponible pour** : missions freelance & sous-traitance en marque blanche pour les agences
-- **Hors écran** : Randonnée 🌳 / Natation 🌊 / Sciences 🔬 / Game dev 🎮
+---
+
+### 💼 Ce que je propose
+
+- **Sites et applications web sur mesure**, du cahier des charges à la mise en ligne
+- **Missions freelance** pour les entreprises et les indépendants
+- **Sous-traitance en marque blanche** pour les agences web
+
+### 🔧 Compétences
+
+- **Au quotidien** : PHP · Symfony · SQL · WordPress
+- **Également** : API REST · JavaScript · SASS
+- **Méthodes** : conception de bases de données · SEO · Domain-Driven Design · UML
+- **En apprentissage** : Python · Java · C++
+
+### 🌿 Hors écran
+
+Randonnée 🌳 · Natation 🌊 · Sciences 🔬 · Développement de jeux 🎮
+
+---
 
 <div align="center">
-  <h2>🔧 Compétences & Technologies 🔧</h2>
+  <p>📩 Un projet en tête ? Retrouvez mon portfolio et mes coordonnées sur <a href="https://jessyf.fr/">jessyf.fr</a></p>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JessyFra&show_icons=true&theme=midnight-purple&custom_title=Informations%20g%C3%A9n%C3%A9rales" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessyFra&layout=donut&custom_title=Langages%20utilis%C3%A9s&theme=midnight-purple" alt="Langages principaux" />
 </div>
-
-#### **Compétences techniques** ⚙️
-- **Principales** : *PHP 8.4 / Symfony 7.3 / SQL / WordPress*
-- **Également** : *API REST / JavaScript / SASS*
-- **En exploration** : *Java 21 / Python 3.13 / C++*
-
-#### **Compétences méthodologiques** 🗂️
-- Conception de bases de données / SEO / CRM
-- Domain-Driven Design / UML (diagrammes de cas d'utilisation, de classes & de séquence)
-
-<div align="center">
-  <h2>🔍 Mes statistiques 🔍</h2>
-  <p>Un aperçu de mon activité sur GitHub</p>
-</div>
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=JessyFra&show_icons=true&theme=midnight-purple&custom_title=Informations%20g%C3%A9n%C3%A9rales)
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=JessyFra&layout=donut&custom_title=Langages%20utilis%C3%A9s&theme=midnight-purple)
